@@ -1,0 +1,3 @@
+[console_scripts]
+global_vel_odom = global_coordinate_simple_mover.global_vel_odom_node:main
+mover_node = global_coordinate_simple_mover.mover_node:main
